@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+p {
+    background-color: 255, 204 , 204;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
